@@ -1,0 +1,90 @@
+{
+    header
+    padding : 30 px 
+    alight text :center
+    font- size : largue
+    body bgcolor= pink
+}
+
+
+
+ h1 { 
+    
+    font-size:7  color = pink  <R> </Font>
+    font-size:7  color = pink  <o> </Font>
+    font-size:7  color = pink  <S> </Font>
+    font-size:7  color = pink  <a> </Font>
+    font-size:7  color = pink  <s> </Font>
+
+}
+
+h2 {
+
+    font-size:7  color = blue  <R> </Font>
+    font-size:7  color = blue <o> </Font>
+    font-size:7  color = blue  <s> </Font>
+    font-size:7  color = blue <a> </Font>
+    font-size:7  color = blue <s> </font>
+
+
+}
+
+h2 {
+    font-size:7  color = red  <t> </Font>
+    font-size:7  color = red <i> </Font>
+    font-size:7  color = red  <p> </Font>
+    font-size:7  color = red  <o> </Font>
+    font-size:7  color = red <s> </Font>
+
+}
+
+h2{
+    font-size:7  color = yellow  <C> </Font>
+    font-size:7  color = yellow  <o> </Font>
+    font-size:7  color = yellow  <m> </Font>
+    font-size:7  color = yellow <u> </Font>
+    font-size:7  color = yellow  <n> </Font>
+    font-size:7  color = yellow  <s> </Font>
+
+}
+
+h2 [
+    font-size:7  color = pink  <n> </Font>
+    font-size:7  color = pink  <o> </Font>
+
+   } 
+
+h2 { 
+    font-size:7  color =  purple <B> </Font>
+    font-size:7  color = purple <r> </Font>
+    font-size:7  color = purple <a> </Font>
+    font-size:7  color = purple  <s> </Font>
+    font-size:7  color = purple <i> </Font>
+    font-size:7  color = purple <l> </Font>
+
+    
+
+}
+
+p {
+    font-size: 30px; font-family: "Courier New";
+
+}
+
+ h2{
+    border: left style 3px;
+    color: blue;
+}
+  
+
+    div . margem 
+    { 
+        background-color: blueviolet;
+      padding: 10px;
+    }
+
+
+
+    
+
+
